@@ -1,4 +1,4 @@
-package com.greenart.school_mangement;
+package com.greenart.school_management;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
